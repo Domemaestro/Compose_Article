@@ -8,5 +8,4 @@ Set the third Text composable to a default font size, 16dp padding (start, end, 
 Note: Set the image to fill the entire screen's width.
 
 ## Final screenshot:
-
 ![image](https://user-images.githubusercontent.com/62145475/232558869-151a8a1b-5db2-4573-88d4-c92a2ba4fc52.png)
